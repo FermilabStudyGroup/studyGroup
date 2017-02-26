@@ -1,6 +1,21 @@
-- name: Bill Mills
-  affiliation: TRIUMF
-  github: BillMills
+- name: Davide Porzio
+  affiliation: Fermilab, The University of Manchester
+  github: sdporzio
+  interests:
+    - Python
+    - Machine Learning
+    - Open Science
+- name: Colton Hill
+  affiliation: Fermilab, The University of Manchester
+  github: Colton21
   interests:
     - Programming
+    - Pygame
     - Open Science
+- name: Adam Lister
+  affiliation: Fermilab, University of Lancaster
+  github: admlw
+  interests:
+    - Dungeons and Dragons
+    - Karaoke
+    - Fun, in general
